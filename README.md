@@ -54,8 +54,7 @@ A few resources to help getting start if this is your first Flutter project:
 
 #### Login and Signup
 
-<img src="https://user-images.githubusercontent.com/35616520/56709601-03d80000-66d7-11e9-84b7-44d5d7e75ac8.png" width="160"/>
-<img src="https://user-images.githubusercontent.com/35616520/56709619-194d2a00-66d7-11e9-9d3e-26bc22afa765.png " width="160">
+<img src="https://user-images.githubusercontent.com/35616520/56709601-03d80000-66d7-11e9-84b7-44d5d7e75ac8.png" width="160"/>   <img src="https://user-images.githubusercontent.com/35616520/56709619-194d2a00-66d7-11e9-9d3e-26bc22afa765.png " width="160">
 
 #### Dispaly all posts
 
@@ -63,11 +62,8 @@ A few resources to help getting start if this is your first Flutter project:
 
 #### Add new posts
 
-<img src=" https://user-images.githubusercontent.com/35616520/56709678-54e7f400-66d7-11e9-8cff-07873fa18d72.png " width="160">
-<img src="https://user-images.githubusercontent.com/35616520/56709662-44377e00-66d7-11e9-879d-f9d7ab9adf64.png" width="160">
+<img src=" https://user-images.githubusercontent.com/35616520/56709678-54e7f400-66d7-11e9-8cff-07873fa18d72.png " width="160"> <img src="https://user-images.githubusercontent.com/35616520/56709662-44377e00-66d7-11e9-879d-f9d7ab9adf64.png" width="160">
 
 #### View posts
-<img src="https://user-images.githubusercontent.com/35616520/56709693-6cbf7800-66d7-11e9-8648-b5c4ed90d860.png" width="160">
-<img src="https://user-images.githubusercontent.com/35616520/56709704-7e088480-66d7-11e9-824f-be328bceacd6.png
-" width="160">
+<img src="https://user-images.githubusercontent.com/35616520/56709693-6cbf7800-66d7-11e9-8648-b5c4ed90d860.png" width="160"> <img src="https://user-images.githubusercontent.com/35616520/56710035-19e6c000-66d9-11e9-9855-ffefbb6448e1.png" width="160">
 
