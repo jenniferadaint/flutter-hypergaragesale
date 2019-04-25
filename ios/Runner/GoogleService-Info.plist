@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>699323061296-k1sklscrv0bge1khmru6uqidphnjmhp8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.699323061296-k1sklscrv0bge1khmru6uqidphnjmhp8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDBSuCxzUPAtIwEot8RMh1wuMzsdnL2G3o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>699323061296</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>neu.hyperGarageSale</string>
+	<key>PROJECT_ID</key>
+	<string>hyper-garage-sale</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hyper-garage-sale.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:699323061296:ios:317da60f6d412e8e</string>
+	<key>DATABASE_URL</key>
+	<string>https://hyper-garage-sale.firebaseio.com</string>
+</dict>
+</plist>
